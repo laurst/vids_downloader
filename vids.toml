@@ -1,0 +1,6 @@
+[settings]
+vids_directory="/your/path"
+retries=3
+
+[channels]
+some_channel="url_of_channel"
